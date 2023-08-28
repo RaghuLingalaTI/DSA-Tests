@@ -1,0 +1,2 @@
+python, It doesn't have much syntax and easy to understand as compared to the 
+other programming languages.
